@@ -877,7 +877,7 @@
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <gestureRecognizers/>
                                 <attributedString key="attributedText">
-                                    <fragment content="Программа для создания и редактирования заметок">
+                                    <fragment content="Приложение для создания и редактирования заметок">
                                         <attributes>
                                             <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" metaFont="smallSystem"/>
